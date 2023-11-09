@@ -1,0 +1,7 @@
+# dependencies
+node_modules/
+
+# Ignore .DS_Store directory
+.DS_Store
+
+.env
