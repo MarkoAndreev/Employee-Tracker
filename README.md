@@ -25,7 +25,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Video of Website Functionality
 The following Photo shows the web application's appearance and functionality:
 
-![photo of how website looks](./assets/images/video1801259651.mp4)
+![video of how website looks](./assets/images/video1801259651.mp4)
 
 
 # Explanation of what was done
